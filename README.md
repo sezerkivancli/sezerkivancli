@@ -1,29 +1,27 @@
-# Hi there 👋 I'm Sezer Kıvançlı
+# Sezer Kıvançlı
 
-## 🚀 About Me
-- 💻 Backend-focused Software Developer
-- 🎯 Strong background in C# and .NET (currently working with .NET 9)
-- 🏗️ Experienced in layered architecture & clean code principles
-- 🔐 Building authentication & authorization systems (Register/Login, JWT, Account management)
-- 🔄 Experienced in RESTful API development & API integrations
-- 🗄️ MSSQL & relational database design
+Software Developer focused on backend engineering and scalable system design.
 
-## 🛠️ Tech Stack
-- C# | .NET
-- MSSQL
-- REST APIs
-- HTML, CSS, Bootstrap
-- Swagger
-- Git & GitHub
+## About Me
 
-## 🌱 Currently
-- Improving system design & architecture skills
-- Exploring advanced backend patterns
-- Expanding knowledge in software security & encryption
+I specialize in building robust backend systems using C# and the .NET ecosystem.  
+My experience includes designing layered architectures, developing RESTful APIs, and implementing secure authentication and authorization mechanisms.
 
-## 📫 Contact
-📧 sezerkivancli@gmail.com
+I have hands-on experience with:
 
----
+- C# and .NET (currently .NET 9)
+- RESTful API development and integration
+- Relational database design (MSSQL)
+- Layered architecture & clean code principles
+- API documentation with Swagger
+- Data processing and service-based architectures
 
-> "Building scalable, maintainable and secure backend systems."
+## Current Focus
+
+- Improving system design and architectural decision-making
+- Writing maintainable and testable backend services
+- Deepening knowledge in software security and encryption concepts
+
+## Contact
+
+Email: ahmetsezerk.sk@gmail.com
