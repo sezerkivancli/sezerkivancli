@@ -1,12 +1,29 @@
-- 👋 Hi, I’m @sezerkivancli
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C/C++ also Python
-- 💞️ I’m looking to collaborate on big-tech companies.
-- 📫 You can email me anytime if you have any questions or concerns: ahmetsezerk.sk@gmail.com
-- 😄 Pronouns: It is too familiar to the person who dominated the world from Rome at that time... Caesar.
-- ⚡ Fun fact: Some turtle kinds can sometimes get breathe their rear end.
+# Hi there 👋 I'm Sezer Kıvançlı
 
-<!---
-sezerkivancli/sezerkivancli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- 💻 Backend-focused Software Developer
+- 🎯 Strong background in C# and .NET (currently working with .NET 9)
+- 🏗️ Experienced in layered architecture & clean code principles
+- 🔐 Building authentication & authorization systems (Register/Login, JWT, Account management)
+- 🔄 Experienced in RESTful API development & API integrations
+- 🗄️ MSSQL & relational database design
+
+## 🛠️ Tech Stack
+- C# | .NET
+- MSSQL
+- REST APIs
+- HTML, CSS, Bootstrap
+- Swagger
+- Git & GitHub
+
+## 🌱 Currently
+- Improving system design & architecture skills
+- Exploring advanced backend patterns
+- Expanding knowledge in software security & encryption
+
+## 📫 Contact
+📧 sezerkivancli@gmail.com
+
+---
+
+> "Building scalable, maintainable and secure backend systems."
