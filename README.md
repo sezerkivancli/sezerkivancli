@@ -24,4 +24,4 @@ I have hands-on experience with:
 
 ## Contact
 
-Email: ahmetsezerk.sk@gmail.com
+Email: sezerkivancli@gmail.com
